@@ -23,7 +23,8 @@
 		{
 		constantColor[_Color]
 		// 纹理颜色*来自光照计算的颜色或是当它绑定时的顶点颜色
-		combine constant lerp(texture) previous
+		//combine constant lerp(texture) 
+		combine constant + texture
 		}
 	}
 	}
