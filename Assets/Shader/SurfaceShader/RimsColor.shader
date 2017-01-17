@@ -1,4 +1,4 @@
-﻿Shader "Custom/RimsColor" {
+﻿Shader "SurfaceShader/RimsColor" {
 	Properties {
 		_MainTex ("主贴图", 2D) = "white" {}
 		_BumpTex("凹凸贴图", 2D) = "white" {}
