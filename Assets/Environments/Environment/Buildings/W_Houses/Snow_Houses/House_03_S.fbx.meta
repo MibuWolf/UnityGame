@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 900674f008e0ecd408e223a324eebf8c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: House_03_Planks
+    100002: //RootNode
+    100004: House_03_Wall
+    100006: W_House_03_Roof
+    400000: House_03_Planks
+    400002: //RootNode
+    400004: House_03_Wall
+    400006: W_House_03_Roof
+    2300000: House_03_Planks
+    2300002: House_03_Wall
+    2300004: W_House_03_Roof
+    3300000: House_03_Planks
+    3300002: House_03_Wall
+    3300004: W_House_03_Roof
+    4300000: W_House_03_Coll
+    4300002: Plane
+    4300004: Mesh_003
+    4300006: W_House_03_Roof
+    4300008: House_03_Planks
+    4300010: Mesh_004
+    4300012: Cube_003
+    4300014: Cube_002
+    4300016: House_03_Wall
+    4300018: Cube
+    4300020: Mesh_001
+    4300022: Mesh
+    4300024: StoneWall_01_Lod_01
+    4300026: SW_01_Stone_Lod_01
+    4300028: SW_01_Stone_Lod_02
+    4300030: SW_01_Stone_Lod_03
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

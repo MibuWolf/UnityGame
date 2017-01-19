@@ -55,7 +55,7 @@
 		SetTexture[_Reflections]
 	{
 		combine texture
-		Matrix[_Reflection]
+		//Matrix[_Reflection]
 	}
 	}
 	}

@@ -24,9 +24,9 @@
 using UnityEngine;
 using UnityEditor;
 using System.Collections;
-
 //添加组件菜单
 [AddComponentMenu("MibuWolf/ShowObjectInfo")]
+
 //开始ShowObjectInfo类
 public class ShowObjectInfo : MonoBehaviour
 {
@@ -72,6 +72,7 @@ public class ShowObjectInfo : MonoBehaviour
         //ShowInfoInGamePlay为真时，才进行绘制
         if (ShowInfoInGamePlay)
         {
+
             //---------------------------------【1.光线投射判断&计算位置坐标】-------------------------------
             //定义一条射线
             Ray ray = new Ray(transform.position + TargetCamera.transform.up * 6f, -TargetCamera.transform.up);
